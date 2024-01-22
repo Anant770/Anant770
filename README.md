@@ -1,4 +1,6 @@
-### Anant Chauhan ###
-### Hi there 👋
-🔭 I’m currently a student at Humber, Toronto.
+# Anant Chauhan 
+## Hi there 👋 
+## 🔭 I’m currently a student at Humber, Toronto. I'm learning web development here.
+##
+ 
 
