@@ -1,6 +1,6 @@
 # Anant Chauhan 
 ## Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
-🔭 I’m currently a student at [Humber College](https://humber.ca/). 🌱 I’m currently learning web development here. I'm always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
+🔭 I’m currently a student at [Humber College](https://humber.ca/). 🌱 I’m currently learning Web Development here. I'm always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
 [![Linkedin Badge](https://img.shields.io/badge/-AnantChauhan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anant-chauhan-13a98124b/)](https://www.linkedin.com/in/anant-chauhan-13a98124b/)
 [![Instagram Badge](https://img.shields.io/badge/-anant__chauhan-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_anant__chauhan_/)](https://www.instagram.com/_anant__chauhan_/)
 [![Gmail Badge](https://img.shields.io/badge/-anantchauhan003@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anantchauhan003@gmail.com)](mailto:anantchauhan003@gmail.com)
